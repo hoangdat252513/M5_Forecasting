@@ -35,9 +35,5 @@ Machine Learning Models: Random Forest, Gradient Boosting, and Support Vector Ma
 Deep Learning Models: LSTM, GRU, and Transformer-based models.
 
 ## Conclusion
-Data Loading and Exploration: Techniques for loading and exploring the dataset to understand its structure and characteristics.
-Preprocessing Pipelines: Code for creating preprocessing pipelines that can be easily applied to new datasets.
-Model Training and Tuning: Examples of training and tuning different models, including hyperparameter optimization.
-Forecasting and Visualization: Techniques for generating forecasts and visualizing the results to gain insights.
 
-The M5 Forecasting project is a comprehensive resource for anyone looking to improve their time series forecasting capabilities. By following the best practices outlined in this project, data scientists and engineers can enhance the accuracy and reliability of their forecasts. The open-source nature of the project encourages collaboration and continuous improvement, making it a valuable asset for the data science community.
+The M5 Forecasting project is a comprehensive resource for anyone looking to improve their time series forecasting capabilities. By following the best practices outlined in this project, we cab enhance the accuracy and reliability of model forecasts. 

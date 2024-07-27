@@ -38,7 +38,7 @@ Selecting the right model is crucial for accurate forecasting. This project expl
 
 ## Conclusion
 
-The performance of LightGBM is highest with MAE = 6 and RMSE = 9.15 while descriptive statistic mean = 11.12 and std = 15l5
+The performance of LightGBM is highest with MAE = 6 and RMSE = 9.15 while descriptive statistic mean = 11.12 and std = 15.5
 
 ![image](https://github.com/user-attachments/assets/ec20068b-e2d0-4c9b-9e33-00d10650585e)
 
